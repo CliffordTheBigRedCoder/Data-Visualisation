@@ -1,0 +1,26 @@
+In the categorical data graph, the viewer first notices the disparity between Newcastle and London house
+prices wherein London is clearly shown to be at least double their Newcastle counterparts for any given
+house type. Then the viewer can start focusing on how this gap in 2001 was close to double, but, over time
+house prices in London have been trending up at a much faster rate than those in Newcastle, displaying the
+disparity in investment and demand in these locations. After this, the viewer then can focus on how the
+relative price of house type's between the two areas doesn't appear to vary very much, with detached being
+the highest followed by a substantial fall to semi-detached and then smaller gaps to terraced and then
+flats, showing that house type price differences are relatively consistent across these two areas.
+
+In the numerical data graph, the viewer first notices the enclosed region displaying the points which fit the
+norm of the data so that they can get a grasp of how upload and download speeds are relatively consistent
+across the UK. However, they then see the two outlying points with labels Kingston upon Hull and York which
+challenge this idea somewhat as they display how in these specific regions, the average speeds are far higher
+in at least one of these two metrics (with York being outlying in both metrics). Then they can focus on the
+regression line that shows that although Kingston upon Hull's download value is far higher than the norm,
+it still follows the general trend of the data when it comes to the relative difference between upload and
+download speeds, whilst York is still a massive outlier showing how unique the region is in this category.
+
+In the time series data graph, the viewer first notices how the stock value fluctuated over this region of
+time, hitting a low in early 2009. They then look at the Bollinger bands which, show that before the crash
+towards the end of 2008, there was a large amount of volatility in the market as the Bollinger bands have
+wider gaps in this region indicating, a likely hefty change in value before the crash around October time.
+Then towards the end of the graph, these bands begin to tighten again as less volatility and trust in the
+market returning led to fewer extreme changes in value. The viewer can then compare this to the average
+value across this time range which shows that although the crash was sudden, the recovery time meant that
+the average value was still relatively low compared to the 2008 starting and 2009 ending values.
